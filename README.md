@@ -1,5 +1,7 @@
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Youpee&theme=tokyonight&count_private=true&show_icons=true" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Youpee&theme=tokyonight&count_private=true&show_icons=true" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youpee&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="150px" />
 </div>
 
 <!--
